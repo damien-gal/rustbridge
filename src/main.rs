@@ -25,4 +25,5 @@ fn main() {
     println!("{}", "-".repeat(l+4));
     println!("> {} <", s);
     println!("{}", "-".repeat(l+4));
+    println!("🦦");
 }
